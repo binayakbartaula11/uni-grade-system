@@ -31,7 +31,7 @@ You can check out the live version of this project here: [GradeVista](https://gr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/uni-grade-system.git
+   git clone https://github.com/binayakbartaula11/uni-grade-system.git
    ```
 
 2. Navigate to the project directory:
