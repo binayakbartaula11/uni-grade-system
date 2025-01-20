@@ -31,18 +31,18 @@ You can check out the live version of this project here: [GradeVista](https://gr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/university-grade-system.git
+   git clone https://github.com/YourUsername/uni-grade-system.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd university-grade-system
+   cd uni-grade-system
    ```
 
 3. Open the `index.html` file in your web browser.
 
-The app is now ready to use without the need for any server setup.
+The site is now ready to use without the need for any server setup.
 
 ---
 
@@ -50,7 +50,7 @@ The app is now ready to use without the need for any server setup.
 
 1. Open the project in your browser.
 2. Enter your grades for different subjects in the input fields.
-3. Click on the **"Calculate Grade"** button to see the final score and letter grade.
+3. Click on the **"Evaluate"** button to see the final score and letter grade.
 4. View the letter grade based on the calculated total score.
 
 ---
@@ -64,7 +64,6 @@ The app is now ready to use without the need for any server setup.
 ### CSS
 
 - **`style.css`**: Contains the main styles for the web page, including layout and design.
-- **`utility.css`**: Contains utility classes for common styling needs (e.g., margins, padding).
 
 ### JavaScript
 
