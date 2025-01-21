@@ -13,9 +13,9 @@ A simple **University Grade System** built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## Deployment 🌐
+## Live Demonstrations 🌐
 
-You can check out the live version of this project here: [GradeVista](https://gradevista.netlify.app/) 🎉. Explore how easy it is to calculate grades with a few clicks!
+Want to dive straight into the action? You can experience the live version of the React Task Tracker hosted on [Explore Demo](https://taskifyme.netlify.app/). Stay organized, manage your tasks, and boost your productivity with this intuitive task management app. How efficient can your workflow be? 🚀
 
 ---
 
