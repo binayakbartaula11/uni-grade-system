@@ -5,7 +5,7 @@ const subjectsBySemester = {
         { name: 'Programming in C', credits: 3 },
         { name: 'Basic Electrical Engineering', credits: 3 },
         { name: 'Computer Workshop', credits: 1 },
-        { name: 'Communication Technique', credits: 1 },
+        { name: 'Communication Technique', credits: 2 },
         { name: 'Electronics Devices & Circuits', credits: 3 }
     ],
     2: [
@@ -34,9 +34,9 @@ const subjectsBySemester = {
         { name: 'Research Fundamentals', credits: 2 }
     ],
     5: [
-        { name: 'Probability & Statistics', credits: 3 },
-        { name: 'Embedded Systems', credits: 3 },
-        { name: 'Engineering Management', credits: 3 },
+        { name: 'Probability & Statistics', credits: 2 },
+        { name: 'Embedded Systems', credits: 2 },
+        { name: 'Engineering Management', credits: 2 },
         { name: 'Artificial Intelligence', credits: 3 },
         { name: 'Digital Signal Analysis Processing', credits: 3 },
         { name: 'Software Engineering', credits: 3 }
@@ -47,7 +47,8 @@ const subjectsBySemester = {
         { name: 'Compiler Design', credits: 2 },
         { name: 'Computer Networks', credits: 3 },
         { name: 'Simulation & Modeling', credits: 3 },
-        { name: 'Project I', credits: 2 }
+        { name: 'Elective I', credits: 3 },
+        { name: 'Project I', credits: 1 }
     ],
     7: [
         { name: 'Entrepreneurship & Professional Practice', credits: 2 },
