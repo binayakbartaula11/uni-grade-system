@@ -13,9 +13,9 @@ A simple **University Grade System** built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## Live Demonstrations 🌐
+## GradeVista Live Demonstrations 🌐
 
-Want to dive straight into the action? You can experience the live version of the React Task Tracker hosted on [Explore Demo](https://taskifyme.netlify.app/). Stay organized, manage your tasks, and boost your productivity with this intuitive task management app. How efficient can your workflow be? 🚀
+Experience **GradeVista**, a powerful grade management tool for Computer Engineering students at Pokhara University. Track your grades, calculate GPAs, and visualize progress with ease. Check it out live on [Explore Demo](https://gradevista.netlify.app/). 
 
 ---
 
